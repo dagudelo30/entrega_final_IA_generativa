@@ -1,0 +1,21 @@
+sku,nombre,categoria,material,retornable,pais_origen
+ECM-BOTELLA-REUT-001,Botella reutilizable de acero,Hogar,Acero inoxidable,sí,CO
+ECM-CEPILLO-DENT-002,Cepillo dental de bambú,Higiene,Bambú,no (higiene),CO
+ECM-BOLSA-COMPOS-003,Bolsa compostable para residuos,Hogar,Material compostable,sí,CO
+ECM-PANEL-SOLAR--004,Panel solar portátil 20W,Energía,Plástico y silicio,sí,CO
+ECM-SHAMPOO-S-LI-005,Shampoo sólido sin sulfatos,Higiene,Base vegetal,no (higiene),CO
+ECM-DETERGENTE-E-006,Detergente ecológico concentrado,Limpieza,Concentrado ecológico,sí,CO
+ECM-FILTRO-DE-AG-007,Filtro de agua de carbón activado,Hogar,Carbón activado,sí,CO
+ECM-L-MPARA-LED--008,Lámpara LED solar exterior,Energía,Plástico y silicio,sí,CO
+ECM-CARGADOR-SOL-009,Cargador solar USB,Energía,Plástico y silicio,sí,CO
+ECM-CUBIERTOS-RE-010,Cubiertos reutilizables de bambú,Cocina,Bambú,sí,CO
+ECM-TERMO-AISLAD-011,Termo aislado reciclado,Hogar,Acero/PP reciclado,sí,CO
+ECM-JAB-N-ARTESA-012,Jabón artesanal vegano,Higiene,Base vegetal,no (higiene),CO
+ECM-BOLSAS-DE-TE-013,Bolsas de tela para mercado,Hogar,Material compostable,sí,CO
+ECM-PAJILLAS-PIT-014,Pajillas (pitillos) de acero,Cocina,Acero inoxidable,sí,CO
+ECM-ESPONJA-VEGE-015,Esponja vegetal (lufa),Higiene,Luffa,no (higiene),CO
+ECM-COMPOSTERA-D-016,Compostera doméstica 15L,Hogar,Materiales sostenibles,sí,CO
+ECM-CERA-VEGANA--017,Cera vegana para wraps,Cocina,Materiales sostenibles,sí,CO
+ECM-KIT-DE-RECIC-018,Kit de reciclaje doméstico,Hogar,Cartón y plásticos reciclados,sí,CO
+ECM-DETERGENTE-P-019,Detergente para ropa hipoalergénico,Limpieza,Concentrado ecológico,sí,CO
+ECM-TAZA-DE-CAF--020,Taza de café reutilizable,Cocina,Acero/PP reciclado,sí,CO

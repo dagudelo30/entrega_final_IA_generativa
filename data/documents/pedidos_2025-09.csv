@@ -1,0 +1,21 @@
+order_id,tracking_number,customer_name,city,product,category,status,carrier,track_url,delayed,eta,last_update,notes
+2509001,20001,Ana Pérez,Bogotá,Botella reutilizable de acero,Hogar,Procesando,DHL,https://tracking.ecomarket.example/dhl/20001,FALSE,10/2/2025,9/25/2025,Confirmación de inventario.
+2509002,20002,Luis Gómez,Medellín,Cepillo dental de bambú,Higiene,En preparación,UPS,https://tracking.ecomarket.example/ups/20002,FALSE,10/3/2025,9/27/2025,Empaque sostenible en proceso.
+2509003,20003,María Rodríguez,Cali,Bolsa compostable para residuos,Hogar,En tránsito,FedEx,https://tracking.ecomarket.example/fedex/20003,FALSE,9/28/2025,9/25/2025,Ruta terrestre en curso.
+2509004,20004,Carlos Sánchez,Barranquilla,Panel solar portátil 20W,Energía,Retrasado,Servientrega,https://tracking.ecomarket.example/servientrega/20004,TRUE,10/3/2025,9/27/2025,Demora del transportista por alta demanda.
+2509005,20005,Laura Torres,Bucaramanga,Shampoo sólido sin sulfatos,Higiene,Entregado,DHL,https://tracking.ecomarket.example/dhl/20005,FALSE,9/26/2025,9/27/2025,Entregado al receptor.
+2509006,20006,Jorge Díaz,Cartagena,Detergente ecológico concentrado,Limpieza,Intento de entrega fallido,UPS,https://tracking.ecomarket.example/ups/20006,TRUE,9/29/2025,9/25/2025,No había quien recibiera; reintento programado.
+2509007,20007,Camila Herrera,Pereira,Filtro de agua de carbón activado,Hogar,Retenido por aduana,FedEx,https://tracking.ecomarket.example/fedex/20007,TRUE,10/1/2025,9/25/2025,Documentación adicional requerida por aduana.
+2509008,20008,Andrés López,Manizales,Lámpara LED solar exterior,Energía,En revisión de pago,Servientrega,https://tracking.ecomarket.example/servientrega/20008,TRUE,10/5/2025,9/27/2025,Verificando confirmación de pago con el banco.
+2509009,20009,Paula Ríos,Armenia,Cargador solar USB,Energía,Procesando,DHL,https://tracking.ecomarket.example/dhl/20009,FALSE,10/2/2025,9/25/2025,Confirmación de inventario.
+2509010,20010,Felipe Castro,Ibagué,Cubiertos reutilizables de bambú,Cocina,En preparación,UPS,https://tracking.ecomarket.example/ups/20010,FALSE,10/3/2025,9/26/2025,Empaque sostenible en proceso.
+2509011,20011,Sofía Martínez,Palmira,Termo aislado reciclado,Hogar,En tránsito,FedEx,https://tracking.ecomarket.example/fedex/20011,FALSE,9/28/2025,9/27/2025,Ruta terrestre en curso.
+2509012,20012,Daniel Ramírez,Cúcuta,Jabón artesanal vegano,Higiene,Retrasado,Servientrega,https://tracking.ecomarket.example/servientrega/20012,TRUE,10/1/2025,9/27/2025,Demora del transportista por alta demanda.
+2509013,20013,Valentina Ortiz,Pasto,Bolsas de tela para mercado,Hogar,Entregado,DHL,https://tracking.ecomarket.example/dhl/20013,FALSE,9/26/2025,9/25/2025,Entregado al receptor.
+2509014,20014,Juan Sebastián,Neiva,Pajillas (pitillos) de acero,Cocina,Intento de entrega fallido,UPS,https://tracking.ecomarket.example/ups/20014,TRUE,9/29/2025,9/25/2025,No había quien recibiera; reintento programado.
+2509015,20015,Natalia Muñoz,Villavicencio,Esponja vegetal (lufa),Higiene,Retenido por aduana,FedEx,https://tracking.ecomarket.example/fedex/20015,TRUE,10/1/2025,9/25/2025,Documentación adicional requerida por aduana.
+2509016,20016,Raúl Pineda,Soledad,Compostera doméstica 15L,Hogar,En revisión de pago,Servientrega,https://tracking.ecomarket.example/servientrega/20016,TRUE,10/2/2025,9/25/2025,Verificando confirmación de pago con el banco.
+2509017,20017,Mónica Vélez,Montería,Cera vegana para wraps,Cocina,Procesando,DHL,https://tracking.ecomarket.example/dhl/20017,FALSE,10/2/2025,9/25/2025,Confirmación de inventario.
+2509018,20018,Esteban Quintero,Santa Marta,Kit de reciclaje doméstico,Hogar,En preparación,UPS,https://tracking.ecomarket.example/ups/20018,FALSE,10/3/2025,9/25/2025,Empaque sostenible en proceso.
+2509019,20019,Carolina Salazar,Tunja,Detergente para ropa hipoalergénico,Limpieza,En tránsito,FedEx,https://tracking.ecomarket.example/fedex/20019,FALSE,10/1/2025,9/27/2025,Ruta terrestre en curso.
+2509020,20020,Diego Agudelo,Popayán,Taza de café reutilizable,Cocina,Retrasado,Servientrega,https://tracking.ecomarket.example/servientrega/20020,TRUE,10/4/2025,9/25/2025,Demora del transportista por alta demanda.
